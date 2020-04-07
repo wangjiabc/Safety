@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="soothing_blue">#0083BF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#F44336</color>
+    <color name="dark_red">#C3352B</color>
+    <color name="app_color_theme_1">#EF5362</color> <!-- Grapefruit -->
+</resources>

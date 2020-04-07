@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.safety.android.safety">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="18" />
+    <uses-feature android:name="android.hardware.camera2" android:required="false" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:appComponentFactory=""
+        tools:replace="android:appComponentFactory"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.safety.android.safety"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+        <!-- Mqtt Service -->
+        <service android:name="org.eclipse.paho.android.service.MqttService" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:configChanges="orientation|keyboardHidden|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.safety.android.http.login"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".Asset.AssetListActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".HiddenCheck.HiddenCheckListActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".HiddenNeaten.HiddenNeatenListActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".SafeList.SafeListActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".SafeList.SafePagerActivity"
+            android:label="Safety"
+            android:parentActivityName=".SafeList.SafeListActivity">
+        </activity>
+        <activity android:name=".PhotoGallery.PhotoGalleryActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+        <activity android:name=".Message.Chat2Activity"
+            android:label="@string/app_name"
+            android:parentActivityName=".MainActivity">
+        </activity>
+    </application>
+
+
+</manifest>

@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu6.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu6.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_share.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_botton_sheet.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_botton_sheet.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hiddenneatenlist.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_hiddenneatenlist.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_component.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_component.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box_normal.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box_normal.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_topbar_overflow.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\icon_topbar_overflow.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_pager_layout_manager.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_pager_layout_manager.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_bottom.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\shadow_bottom.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_twopane.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_twopane.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_lab_selected.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_lab_selected.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_util.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_util.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_safe_list.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\menu\\fragment_safe_list.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image3.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image3.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box3.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box3.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box4.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box4.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_device_helper.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_device_helper.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment_container.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_fragment_container.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_still.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\slide_still.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_about_logo.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\about_logo.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_fragment_container.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout-land\\activity_fragment_container.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu5.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu5.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box_pressed.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box_pressed.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_assetlist.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_assetlist.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_link_text_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_link_text_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_layout.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_layout.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_group_list_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_group_list_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_camera.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_right.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\shadow_right.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_right.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\in_from_right.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_from_left.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\out_from_left.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_tip_dialog.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_tip_dialog.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image2.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image2.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_swipe_back_enter.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\swipe_back_enter.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_box.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\list_item_box.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_send.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_in_from_left.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\in_from_left.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_webview.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_webview.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_null.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\fragment_null.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shadow_left.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\shadow_left.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\menu_fragment_delete.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\menu\\fragment_delete.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_collapse_top_bar.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_collapse_top_bar.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_progress_bar.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_progress_bar.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu8.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu8.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_activity_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_topbar_overflow.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_topbar_overflow.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_gallery_item.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_span_touch_fix_text_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_span_touch_fix_text_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_camera.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image1.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image1.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activitiy_hiddenchecklist.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activitiy_hiddenchecklist.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_plus.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\plus.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_list_item.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\simple_list_item.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_date.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\dialog_date.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_swipe_back_exit.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\swipe_back_exit.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box6.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box6.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_photo_dialog.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\photo_dialog.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_enter.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\scale_enter.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_button.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_button.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box9.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box9.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_web_explorer_progress.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\web_explorer_progress.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image4.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image4.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_continuous_nest_scroll.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_continuous_nest_scroll.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_drawable_helper.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_drawable_helper.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_manage.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_chat.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_qq_face_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_qq_face_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image0.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image0.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_tab_segment.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_tab_segment.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_add.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_simple_list_item_1.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout-land\\simple_list_item_1.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_empty_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_empty_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_simple_list_item.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout-land\\simple_list_item.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_component_selected.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_component_selected.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_photo_gallery.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\fragment_photo_gallery.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu3.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu3.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_arrowright.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\arrowright.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_span.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_span.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_float_layout.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_float_layout.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_color_helper.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_color_helper.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_popup.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_popup.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_sticky_section.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_sticky_section.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_vertical_text_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_vertical_text_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu_gallery.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_pull_refresh_layout.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_pull_refresh_layout.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box7.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box7.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu2.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu2.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_view_helper.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_view_helper.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_topbar_about.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_topbar_about.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_swipe_back_exit_still.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\swipe_back_exit_still.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu9.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu9.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_safe_box.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\fragment_safe_box.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_util_selected.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_util_selected.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_dialog.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_dialog.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_anim_list_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_anim_list_view.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_null.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout-land\\fragment_null.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box5.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box5.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image5.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image5.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_time.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\dialog_time.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_in_progress.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_in_progress.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu1.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu1.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_safe_pager.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_safe_pager.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_example_image6.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\example_image6.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_status_bar_helper.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_status_bar_helper.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_out_from_right.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\out_from_right.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box8.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box8.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\xml_file_paths.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_subscriber.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\item_subscriber.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu7.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu7.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\anim_scale_exit.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\anim\\scale_exit.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_safe_list.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\fragment_safe_list.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_tabbar_lab.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_tabbar_lab.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_safe.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\list_item_safe.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_list_item_1.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\simple_list_item_1.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fragment_main.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\layout\\activity_fragment_main.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_box2.xml.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\button_box2.xml"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menu4.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\drawable\\menu4.png"
+    },
+    {
+        "merged": "D:\\java\\Safety\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_icon_grid_radius_image_view.png.flat",
+        "source": "D:\\java\\Safety\\app\\src\\main\\res\\mipmap-xhdpi\\icon_grid_radius_image_view.png"
+    }
+]
